@@ -10,7 +10,6 @@ Features:
   
   Visualizations to explore data insights and model performance.
   
-Technologies Used:
 
   Programming Language: Python
   
@@ -18,15 +17,15 @@ Technologies Used:
   
 Workflow:
 
-  Data Collection: Gathering AQI and related data.
+  Data Collection-- Gathering AQI and related data.
   
-  Preprocessing: Cleaning, transforming, and feature engineering.
+  Preprocessing-- Cleaning, transforming, and feature engineering.
   
-  Model Development: Training and testing machine learning models.
+  Model Development-- Training and testing machine learning models.
   
-  Evaluation: Assessing model performance using metrics like accuracy, precision, and recall.
+  Evaluation-- Assessing model performance using metrics like accuracy, precision, and recall.
   
-  Visualization: Presenting findings through graphs and charts.
+  Visualization-- Presenting findings through graphs and charts.
   
 Key Insights:
 
